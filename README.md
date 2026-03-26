@@ -6,9 +6,16 @@ A responsive and modern landing page designed to showcase trending content (e.g.
 
 ## Preview
 
+* Laptop view
 ![img](./screenshots/stylez-laptop.png)
+
+* ipad view
 ![img](./screenshots/stylez-ipad.png)
+
+* tab view
 ![img](./screenshots/stylez-tab.png)
+
+* mobile view
 ![img](./screenshots/stylez-mobile.png)
 
 ---
